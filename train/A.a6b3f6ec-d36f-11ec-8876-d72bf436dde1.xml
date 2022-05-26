@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>A.a6b3f6ec-d36f-11ec-8876-d72bf436dde1.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\phone\combined\A.a6b3f6ec-d36f-11ec-8876-d72bf436dde1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1586</xmin>
+			<ymin>1203</ymin>
+			<xmax>2239</xmax>
+			<ymax>1703</ymax>
+		</bndbox>
+	</object>
+</annotation>
