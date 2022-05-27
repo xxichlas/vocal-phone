@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ADDITIONAL REST</folder>
+	<filename>O.5f324cd2-dda6-11ec-a23d-380025bf1728.jpg</filename>
+	<path>C:\workspaces\vocal-phone\ADDITIONAL REST\O.5f324cd2-dda6-11ec-a23d-380025bf1728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1453</xmin>
+			<ymin>1532</ymin>
+			<xmax>2075</xmax>
+			<ymax>2250</ymax>
+		</bndbox>
+	</object>
+</annotation>

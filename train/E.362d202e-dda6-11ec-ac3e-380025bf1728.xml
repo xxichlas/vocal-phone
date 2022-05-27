@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ADDITIONAL REST</folder>
+	<filename>E.362d202e-dda6-11ec-ac3e-380025bf1728.jpg</filename>
+	<path>C:\workspaces\vocal-phone\ADDITIONAL REST\E.362d202e-dda6-11ec-ac3e-380025bf1728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1532</xmin>
+			<ymin>1507</ymin>
+			<xmax>2068</xmax>
+			<ymax>2146</ymax>
+		</bndbox>
+	</object>
+</annotation>

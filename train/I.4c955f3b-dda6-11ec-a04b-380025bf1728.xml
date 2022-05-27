@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ADDITIONAL REST</folder>
+	<filename>I.4c955f3b-dda6-11ec-a04b-380025bf1728.jpg</filename>
+	<path>C:\workspaces\vocal-phone\ADDITIONAL REST\I.4c955f3b-dda6-11ec-a04b-380025bf1728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1482</xmin>
+			<ymin>1496</ymin>
+			<xmax>2103</xmax>
+			<ymax>2211</ymax>
+		</bndbox>
+	</object>
+</annotation>

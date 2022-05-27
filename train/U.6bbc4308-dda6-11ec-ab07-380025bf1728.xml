@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ADDITIONAL REST</folder>
+	<filename>U.6bbc4308-dda6-11ec-ab07-380025bf1728.jpg</filename>
+	<path>C:\workspaces\vocal-phone\ADDITIONAL REST\U.6bbc4308-dda6-11ec-ab07-380025bf1728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1432</xmin>
+			<ymin>1300</ymin>
+			<xmax>1875</xmax>
+			<ymax>2282</ymax>
+		</bndbox>
+	</object>
+</annotation>

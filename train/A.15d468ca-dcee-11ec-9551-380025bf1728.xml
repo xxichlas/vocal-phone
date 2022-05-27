@@ -1,0 +1,26 @@
+<annotation>
+	<folder>additional</folder>
+	<filename>A.15d468ca-dcee-11ec-9551-380025bf1728.jpg</filename>
+	<path>C:\workspaces\vocal-phone\additional\A.15d468ca-dcee-11ec-9551-380025bf1728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1403</xmin>
+			<ymin>1636</ymin>
+			<xmax>1911</xmax>
+			<ymax>2118</ymax>
+		</bndbox>
+	</object>
+</annotation>
