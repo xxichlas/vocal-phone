@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labeled</folder>
+	<filename>I.12eecda9-df49-11ec-af86-380025bf1728.jpg</filename>
+	<path>C:\workspaces\vocal-phone\Labeled\I.12eecda9-df49-11ec-af86-380025bf1728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1125</xmin>
+			<ymin>1168</ymin>
+			<xmax>1936</xmax>
+			<ymax>2368</ymax>
+		</bndbox>
+	</object>
+</annotation>

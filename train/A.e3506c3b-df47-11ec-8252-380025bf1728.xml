@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labeled</folder>
+	<filename>A.e3506c3b-df47-11ec-8252-380025bf1728.jpg</filename>
+	<path>C:\workspaces\vocal-phone\Labeled\A.e3506c3b-df47-11ec-8252-380025bf1728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1350</xmin>
+			<ymin>1496</ymin>
+			<xmax>2061</xmax>
+			<ymax>2057</ymax>
+		</bndbox>
+	</object>
+</annotation>
