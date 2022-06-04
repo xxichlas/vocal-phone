@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labeled</folder>
+	<filename>U.c3ff1de4-e3d6-11ec-a8f3-c2604c9a72c0.jpg</filename>
+	<path>C:\workspaces\vocal-phone\labeled\U.c3ff1de4-e3d6-11ec-a8f3-c2604c9a72c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1211</xmin>
+			<ymin>150</ymin>
+			<xmax>2421</xmax>
+			<ymax>1871</ymax>
+		</bndbox>
+	</object>
+</annotation>

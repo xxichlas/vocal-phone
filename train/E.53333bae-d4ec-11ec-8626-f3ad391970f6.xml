@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>E.53333bae-d4ec-11ec-8626-f3ad391970f6.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\phone\additional vocal\combined\E.53333bae-d4ec-11ec-8626-f3ad391970f6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>693</ymin>
+			<xmax>750</xmax>
+			<ymax>1157</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>O.681e742c-d4ec-11ec-81d6-f3ad391970f6.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\phone\additional vocal\combined\O.681e742c-d4ec-11ec-81d6-f3ad391970f6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>608</ymin>
+			<xmax>714</xmax>
+			<ymax>926</ymax>
+		</bndbox>
+	</object>
+</annotation>

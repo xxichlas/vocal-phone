@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>A.4501beda-d4ec-11ec-ac4f-f3ad391970f6.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\phone\additional vocal\combined\A.4501beda-d4ec-11ec-ac4f-f3ad391970f6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>655</xmin>
+			<ymin>734</ymin>
+			<xmax>1070</xmax>
+			<ymax>1089</ymax>
+		</bndbox>
+	</object>
+</annotation>

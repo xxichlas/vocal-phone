@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labeled</folder>
+	<filename>O.f56c19b2-e3d6-11ec-9d9b-c2604c9a72c0.jpg</filename>
+	<path>C:\workspaces\vocal-phone\labeled\O.f56c19b2-e3d6-11ec-9d9b-c2604c9a72c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1253</xmin>
+			<ymin>1214</ymin>
+			<xmax>2321</xmax>
+			<ymax>2143</ymax>
+		</bndbox>
+	</object>
+</annotation>

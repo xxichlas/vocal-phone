@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labeled</folder>
+	<filename>I.eadd396d-e3d6-11ec-b603-c2604c9a72c0.jpg</filename>
+	<path>C:\workspaces\vocal-phone\labeled\I.eadd396d-e3d6-11ec-b603-c2604c9a72c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1003</xmin>
+			<ymin>482</ymin>
+			<xmax>2007</xmax>
+			<ymax>1711</ymax>
+		</bndbox>
+	</object>
+</annotation>

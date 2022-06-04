@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>U.71a2c408-d4ec-11ec-bce2-f3ad391970f6.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\phone\additional vocal\combined\U.71a2c408-d4ec-11ec-bce2-f3ad391970f6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1109</width>
+		<height>1475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymin>476</ymin>
+			<xmax>1061</xmax>
+			<ymax>1423</ymax>
+		</bndbox>
+	</object>
+</annotation>
